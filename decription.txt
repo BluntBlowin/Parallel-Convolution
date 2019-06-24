@@ -1,0 +1,5 @@
+La première optimisation est le déroulement de la boucle.
+Un bénéfice moyen (parmi les 3 images) de 2,5 × peut être
+obtenu manuellement en déroulant la boucle imbriquée sur le noyau en 25 multiplications.
+  A ce stade, nous modifions l'énoncé dans l'équation. 2 à l'intérieur
+la boucle imbriquée dans le noyau en 25 additions sous la forme  l'équation 3

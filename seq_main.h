@@ -1,0 +1,2 @@
+
+int seq_main();

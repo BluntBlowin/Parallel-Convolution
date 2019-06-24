@@ -1,0 +1,73 @@
+# depslib dependency file v1.0
+1560252395 source:c:\users\blunt_blowin\desktop\helloopenmp\main.cpp
+	"fonctons.h"
+	"seq_main.h"
+	"main_omp.h"
+
+1560249535 source:c:\users\blunt_blowin\desktop\helloopenmp\fonctons.cpp
+	"fonctons.h"
+
+1560218708 c:\users\blunt_blowin\desktop\helloopenmp\fonctons.h
+	<omp.h>
+	<iostream>
+	<ctime>
+	<cmath>
+	<stdio.h>
+	<stdlib.h>
+
+1550537367 source:c:\users\blunt_blowin\desktop\helloopenmp\src\matrix.cpp
+	"Matrix.h"
+
+1550537522 c:\users\blunt_blowin\desktop\helloopenmp\include\matrix.h
+
+1557048254 c:\users\blunt_blowin\desktop\helloopenmp\include\sequentialconvolution.h
+	<vector>
+	<fstream>
+	<iostream>
+	"stopwatch.h"
+
+1560252451 source:c:\users\blunt_blowin\desktop\helloopenmp\src\sequentialconvolution.cpp
+	"SequentialConvolution.h"
+
+1560248977 source:c:\users\blunt_blowin\desktop\helloopenmp\main_omp.cpp
+	"Conv_omp.h"
+
+1560252460 source:c:\users\blunt_blowin\desktop\helloopenmp\src\conv_omp.cpp
+	"Conv_omp.h"
+
+1557048255 c:\users\blunt_blowin\desktop\helloopenmp\include\conv_omp.h
+	<iostream>
+	<vector>
+	<fstream>
+	"stopwatch.h"
+
+1557048136 source:c:\users\blunt_blowin\desktop\helloopenmp\seq_main.cpp
+	"SequentialConvolution.h"
+
+1557045600 c:\users\blunt_blowin\desktop\helloopenmp\seq_main.h
+
+1557045766 c:\users\blunt_blowin\desktop\helloopenmp\main_omp.h
+
+1557047662 source:c:\users\blunt_blowin\desktop\helloopenmp\src\stopwatch.cpp
+
+1557047885 c:\users\blunt_blowin\desktop\helloopenmp\include\stopwatch.h
+	<chrono>
+
+1560252604 source:c:\users\blunt_blowin\desktop\helloopenmp\finalversion.cpp
+	<iostream>
+	<cstdint>
+	<math.h>
+	<omp.h>
+	<vector>
+	"hpc_helpers.hpp"
+
+1555779324 c:\users\blunt_blowin\desktop\helloopenmp\hpc_helpers.hpp
+	<iostream>
+	<cstdint>
+	<chrono>
+	<type_traits>
+
+1560218113 source:c:\users\blunt_blowin\desktop\helloopenmp\timetests.c
+	<omp.h>
+	<cstdlib>
+
